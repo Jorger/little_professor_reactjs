@@ -1,0 +1,28 @@
+{
+    "name": "Little Professor",
+    "short_name": "Little Professor",
+    "icons": [
+        {
+            "src": "/images/icon96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },{
+            "src": "/images/icon144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },{
+            "src": "/images/icon180x180.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },{
+            "src": "/images/icon192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "background_color": "#236699",
+    "theme_color": "#236699",
+    "start_url": "/",
+    "display": "fullscreen",
+    "orientation": "portrait"
+}
