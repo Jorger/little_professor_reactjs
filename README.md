@@ -18,8 +18,7 @@ En este modo al usuario se le mostrará una serie de ejercicios matemáticos, la
 
 # Desarrollo.
 
-Little Professor está desarrollando haciendo uso de React versión 16, el objetivo de la actividad es el afianzamiento de los conocimientos de esta librería, 
-así como el uso de variables en CSS.
+Little Professor está desarrollando haciendo uso de React versión 16, el objetivo de la actividad es el afianzamiento de los conocimientos de esta librería, así como el uso de variables en CSS, el diseño de la interfaz está hecho 100% en CSS, las proporiciones son calculadas a través de la función [calc] de CSS
 
 Little Professor está enmarcado en las denominadas Progressive Web apps.
 
@@ -49,6 +48,13 @@ npm run dev-server
 npm run serve
 ```
 
+# Fuentes.
+
+* [Learn CSS Variables for free]
+* [Recreating Little Professor in Ember]
+* [The Complete React Web Developer Course (with Redux)]
+* [Progressive Web Apps Desktop Chrome]
+
 ### Autor
 * Jorge Rubaino [@ostjh]
 
@@ -59,3 +65,8 @@ MIT
 [@ostjh]:https://twitter.com/ostjh
 [Little Professor]:https://en.wikipedia.org/wiki/Little_Professor
 [DEMO]:https://jorger.github.io/little_professor/
+[calc]:https://www.w3schools.com/cssref/func_calc.asp
+[Learn CSS Variables for free]:https://scrimba.com/g/gcssvariables
+[Recreating Little Professor in Ember]:https://medium.com/@barelyknown/recreating-little-professor-in-ember-8870e140654a
+[The Complete React Web Developer Course (with Redux)]:https://www.udemy.com/react-2nd-edition/
+[Progressive Web Apps Desktop Chrome]:https://www.xda-developers.com/progressive-web-apps-chrome-how-to/
