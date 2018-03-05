@@ -39,7 +39,7 @@ npm run dev-server
 ### Ejecución modo build
 
 ```
-npm run dev-server
+npm run build
 ```
 
 ### Servir aplicación localmemte
